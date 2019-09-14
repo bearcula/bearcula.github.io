@@ -1,0 +1,1101 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--
+
+　　　          ___   .--.
+　　　    .--.-"   "-' .- |
+　　　   / .-,`          .'   
+　　　   \   `           \ 　　　　　　。・゜ 　♡   。　　・　゜ 　　　♡  
+　　　    '.            ・ \　　　　　　　　　　　　　　　　　　　　　　　　♡　　　　♡ ゜・。。♡  
+　　　      |  ・     ᴥ    。|　　　　・゜♡ ゜・。　　. * ・ ♡ °  . 。
+　　　      \ 。            /.____　　　　　　　　　　　　　　　　　　♡.  
+　　　     /`-.          ,'.'    `\　　　　　　　　　　　　　　　　　　。・゜　　　 ♡ ・ 。　　。・゜ ♡  
+　　　  __/   \`-.____.-' `\      /　　　　　♡　。・゜      
+　　　  | `---`'-'._/-`     \----'    _ 　　　　　　　　　　　♡　　　.　　　.♡ 
+　　　  |,-'`  /             |    _.-' `\　　　　. * ・        
+　　　 .'     /              |--'`     / |　　　　　　　　　　 ♡
+　　　/      /\              `         | |
+　　　|   .\/  \      .--. __          \ |　　　　　　　　　　　*.。middlepot.com 
+　　　 '-'      '._       /  `\         /　　　　　　　　　　　　　　　　　　　　　　　ଘ(*´ ˘ `*)ഒ 。.*
+　　　             `\    '     |------'`
+　　　               \  |      |
+　　　                \        /
+ 　　　                '._  _.'
+
+-->
+
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.js" type="text/javascript"></script>
+
+<title>･ ﾟ ｡</title>
+
+<script type="text/javascript" src="https://static.tumblr.com/p2evvtm/Wycm17d1m/tumblr_search_box.js"></script>
+<meta name="color:Background" content="#FFFFFF"/>
+<meta name="color:Text" content="#b0a29e"/>
+<meta name="color:Links" content="#d9b5b2"/>
+
+
+
+<meta name="image:Background" content=""/>
+<meta name="image:Logo" content=""/>
+
+
+<meta name="text:Link1" content="" />
+<meta name="text:Link1URL" content=""/>
+<meta name="text:Link2" content="" />
+<meta name="text:Link2URL" content=""/>
+<meta name="text:Link3" content="" />
+<meta name="text:Link3URL" content=""/>
+<meta name="text:Link4" content="" />
+<meta name="text:Link4URL" content=""/>
+
+<meta name="if:sparkles" content="1"/>
+<meta name="if:Maximised Background Image" content="0"/>
+<meta name="if:Show Captions" content="0"/>
+<meta name="if:Endless Scroll" content="0"/>
+
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=ef3c5f9e2bfc3b55a525701220c2a0e7"><link rel="shortcut icon" href="https://i.imgur.com/tmwkIyO.png">
+
+
+
+<script type="text/javascript">
+$(window).load(function(){
+$("p").remove(":contains('Source:')");
+$("p").remove(":contains('(via')");
+});
+</script>
+
+
+<style>
+iframe.tmblr-iframe {
+    z-index:99999999999999!important;
+    top:5px!important;
+    right:0!important;
+    color:#a39996;
+    opacity:0;
+    padding-right:38px;
+    /* delete invert(1) from here */
+        filter: contrast(150%);
+        -webkit-filter: contrast(150%);
+        -o-filter: contrast(150%);
+        -moz-filter: contrast(150%);
+        -ms-filter: contrast(150%);
+    /* to here if your blog has a dark background */
+    transform:scale(0.65);
+    transform-origin:100% 0;
+    -webkit-transform:scale(0.65);
+    -webkit-transform-origin:100% 0;
+    -o-transform:scale(0.65);
+    -o-transform-origin:100% 0;
+    -moz-transform:scale(0.65);
+    -moz-transform-origin:100% 0;
+    -ms-transform:scale(0.65);
+    -ms-transform-origin:100% 0;}
+
+iframe.tmblr-iframe:hover {
+    opacity:0.7!important;}
+
+.hcontrols {
+    position:fixed;
+    top:5px;
+    right:0;
+    z-index:999999999;}
+
+.hcontrols svg {
+    width:15px;
+    height:15px;
+    padding:9px;}
+
+.hcontrols svg path {
+    fill:#d6c9c5;/* change this to change the color of the icon */}
+</style>
+
+<style>
+
+
+
+
+
+
+body, a, a:hover { cursor:url('https://i.imgur.com/brPUaSx.png'), auto !important;}
+       ::selection {text-shadow: 0 0 2px #cec1be;color:#b7aba8}
+ ::-moz-selection {text-shadow: 0 0 2px #cec1be;color:#b7aba8}
+
+html, body {
+padding: 0;
+margin: 0;
+height: 100%;
+}
+
+
+
+
+::-webkit-scrollbar {
+width: 5px;
+height: 7px;
+background: transparent;
+}
+::-webkit-scrollbar-thumb {
+background-color: #fefbfb;
+-webkit-border-radius: 20px;
+border:1px solid #e8d5d5;
+}
+
+
+
+
+body{ 
+    
+color:#b3a7a7; 
+background-color:#fff7f6;
+
+background-image:url('https://static.tumblr.com/2a6d55fdb7cdf4c5cf4a0486fb69db56/lzb3h7n/DI8pulsuv/tumblr_static_b5vgmkrbrs8og88s80wkw8w8g.png');
+
+
+background-attachment:fixed;
+background-repeat:repeat;
+
+text-align:justify; 
+font-family: Verdana;
+line-height:9px;
+font-size: 8px;
+text-align: center;}
+
+}
+}
+.tumblrAutoPager_page_info, .tumblrAutoPager_page_separator {display:none;}
+a{
+text-decoration:none; 
+color:#9c8f86;
+-moz-transition: all 0.3s ease-out; /* FF3.7+ */
+-o-transition: all 0.3s ease-out; /* Opera 10.5 */
+-webkit-transition: all 0.3s ease-out; /* Saf3.2+, Chrome */
+transition: all 0.3s ease-out;
+}
+a:hover{ 
+text-decoration:;
+color:#ad9a95;
+letter-spacing:2px;
+-moz-transition: all 0.3s ease-out; /* FF3.7+ */
+-o-transition: all 0.3s ease-out; /* Opera 10.5 */
+-webkit-transition: all 0.3s ease-out; /* Saf3.2+, Chrome */
+transition: all 0.3s ease-out;
+
+}
+a img{
+border:0px;
+}
+#content{
+background:;
+padding:2px;
+
+width:450px; 
+}
+
+.blogtitle{
+margin:20px 0 0px 0;
+text-align:center;
+font-weight:bold;
+
+
+line-height:30px;
+font-size:25px;
+}
+.blogtitle a:hover{
+text-decoration:none;
+}
+.nav {
+text-transform:lowercase;
+text-align:center;
+margin-bottom:30px;
+}
+.player{
+width:450px;
+overflow:hidden;
+background:transparent;
+}
+
+h2 {font-size:8px; font-weight:normal;}
+
+h3{
+text-transform:;
+-webkit-margin-after: 0px;
+-webkit-margin-before: 2px;
+margin-top: 2px;
+margin-bottom:2px;
+font-size:20px;
+background:;
+line-height:20px;
+font-weight:normal;
+font-family: verdana;
+text-align: center;
+color:#a3918c;}
+}
+}
+
+
+.pagination{
+margin-bottom:15px;
+font-size:8px;
+font-style:normal;
+text-align:center;
+}
+.current_page{
+font-style:italic;
+}
+#entry{
+margin-bottom:px;
+width:450px;
+padding:2px;
+padding-top:10px;
+background:;
+
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+#entry img{
+max-width:450px;
+opacity:.8;
+-webkit-transition: all 0.7s ease-in-out;
+-moz-transition: all 0.7s ease-in-out;
+-o-transition: all 0.7s ease-in-out;
+-ms-transition: all 0.7s ease-in-out;
+transition: all 0.7s ease-in-out;
+}
+#entry img:hover{
+max-width:450px;
+opacity:1;
+}
+div.video embed,
+div.post div.video object {
+width:450px !important;
+height:auto !important;
+}
+ol.notes { 
+padding: 0px;
+margin: 20px 0px 0px 0px;
+list-style-type: none;
+}
+ol.notes li.note {
+padding: 5px;
+}
+ol.notes li.note img.avatar {
+vertical-align: -4px;
+margin-right: 10px;
+opacity:1;
+width: 20px;
+height: 20px;
+}
+ol.notes li.note span.action {
+font-weight: normal;
+}
+ol.notes li.note span.action a {
+font-style:italic;
+}
+
+blockquote{
+padding:0px 0px 0px 0px;
+margin:0px 0px 2px 1px;
+border-left: 0px solid #b3a7a7;
+}
+
+
+</style>
+
+
+
+
+
+
+
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=pufti%26postID=187491017428" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=pufti&postID=187491017428" /><link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://pufti.my.to/post/187491017428/sadfviry-blog-new-bustier-u" title="sadfviry-blog:
+&ldquo;new bustier ; u ;
+&rdquo;"/><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/caslonfs/stylesheet.css?v=3"><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="･ ﾟ ｡" /><meta property="og:url" content="https://pufti.my.to/?og=1" /><meta property="og:description" content="𝑚𝑎𝑘𝑒 𝑚𝑒 𝑓𝑒𝑒𝑙 𝑠𝑎𝑓𝑒 .." /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="https://66.media.tumblr.com/4afacb599956e6335bd1c24da4d437ed/f506901d4ed8d852-59/s128x128u_c1/0a3635ef59a87183eb753e7f926efd81b7e174a8.pnj" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=pufti" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=pufti" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="app" /><meta name="twitter:description" content="pufti" /><meta name="twitter:title" content="pufti" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=pufti&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=pufti&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=pufti&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"https:\/\/pufti.my.to","itemListElement":[{"@type":"ListItem","position":1,"url":"https:\/\/pufti.my.to\/post\/187669591388\/softpinecone-sweet-dreams"},{"@type":"ListItem","position":2,"url":"https:\/\/pufti.my.to\/post\/187669456428"},{"@type":"ListItem","position":3,"url":"https:\/\/pufti.my.to\/post\/187669451733"},{"@type":"ListItem","position":4,"url":"https:\/\/pufti.my.to\/post\/187669450668"},{"@type":"ListItem","position":5,"url":"https:\/\/pufti.my.to\/post\/187669447128"},{"@type":"ListItem","position":6,"url":"https:\/\/pufti.my.to\/post\/187669369028"},{"@type":"ListItem","position":7,"url":"https:\/\/pufti.my.to\/post\/187669356923"},{"@type":"ListItem","position":8,"url":"https:\/\/pufti.my.to\/post\/187669356443\/tapireye-proceeding-thru-life-with-lamb-like"},{"@type":"ListItem","position":9,"url":"https:\/\/pufti.my.to\/post\/187491018483"},{"@type":"ListItem","position":10,"url":"https:\/\/pufti.my.to\/post\/187491017428\/sadfviry-blog-new-bustier-u"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://pufti.my.to" /></head>
+
+
+<body>
+
+
+
+
+
+
+
+
+
+<div style="position:absolute; top: 40px; left: 300px; https://68.media.tumblr.com/d33cc32c79244fbe257001aa836a5d6b/tumblr_oljhc7QqVZ1w6phv9o1_100.png">
+<img src="https://i.imgur.com/lMEySq6.png"><br>
+</div>
+
+<div style="position:absolute; z-index: 10; top: 450px; left: 200px; https://68.media.tumblr.com/d33cc32c79244fbe257001aa836a5d6b/tumblr_oljhc7QqVZ1w6phv9o1_100.png">
+<img width="260px" height="auto" src="https://i.imgur.com/QsKgkda.png"><br>
+</div>
+
+
+<div style="position:absolute; z-index: 10; top: 610px; left: 490px;">
+<a href="/"><img src="https://i.imgur.com/vp203SF.png"></a>　
+<a href="https://middlepot.com" target=”_blank”><img src="https://i.imgur.com/YHDoFmY.png"></a>　
+<a href="https://pofti.my.to" target=”_blank”><img src="https://i.imgur.com/mFg4kSj.png"></a>　
+<a href="/archive"><img src="https://i.imgur.com/7W3wYwX.png"></a>
+</div>
+
+
+
+
+
+
+
+
+<!-- recht sidebar-->
+<div style="position:absolute; top:180px; left: 804px; width: 135px; height: 450px; overflow: hidden; padding-left: 5px;">
+
+
+
+
+<p>
+
+</div>
+
+
+
+
+
+
+
+
+<!-- posts -->
+<div style="position:absolute; top:90px; left: 400px; width: 490px; height: 440px; overflow: scroll; overflow-x: hidden;  padding-right: 0px;">
+<div id="content" style="background: ;">
+
+
+
+
+
+
+
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://pufti.my.to/image/187669591388"><a href="https://pufti.my.to/post/187669591388/softpinecone-sweet-dreams"><img src="https://66.media.tumblr.com/c061b1c4d68e325c9bedfcdf0dfdec24/tumblr_pjedze6u141ugdbgro2_500.jpg" alt="softpinecone:
+&ldquo;sweet dreams ✧♡
+&rdquo;" width="auto"/></a></a>
+<p><a href="http://softpinecone.tumblr.com/post/180909525436/sweet-dreams" class="tumblr_blog">softpinecone</a>:</p><blockquote><p><i>sweet dreams </i>&#10023;&#9825;<br /></p></blockquote><p>(via <a href='https://pilget.tumblr.com/post/185536556391/softpinecone-sweet-dreams'>pilget</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>3:34 PM ♡ <a href="https://pufti.my.to/post/187669591388/softpinecone-sweet-dreams">584</a> ♡ <a href="https://www.tumblr.com/reblog/187669591388/NhFzhzgP" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://pufti.my.to/image/187669456428"><a href="https://pufti.my.to/post/187669456428"><img src="https://66.media.tumblr.com/5259d437ba1b6d98d688c6ea0b97219a/tumblr_mghdxvqwTx1qaynrlo1_500.jpg" alt="" width="auto"/></a></a>
+<p>(via <a href='https://bunchurimi.tumblr.com/post/185906240619'>bunchurimi</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>3:26 PM ♡ <a href="https://pufti.my.to/post/187669456428">2328</a> ♡ <a href="https://www.tumblr.com/reblog/187669456428/WEnWa2C8" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://instagram.com/p/5SwCTPkYbI/"><a href="https://pufti.my.to/post/187669451733"><img src="https://66.media.tumblr.com/eb18fc0056b4c57968515ad0e7c44fcf/tumblr_nrpdmz9AO11u7bbdlo1_500.jpg" alt="" width="auto"/></a></a>
+<p>(via <a href='https://bunchurimi.tumblr.com/post/186121325544'>bunchurimi</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>3:25 PM ♡ <a href="https://pufti.my.to/post/187669451733">229</a> ♡ <a href="https://www.tumblr.com/reblog/187669451733/uxAmNMfA" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://pufti.my.to/image/187669450668"><a href="https://pufti.my.to/post/187669450668"><img src="https://66.media.tumblr.com/f6361e5faa8a5dad73b7490b77447b3e/tumblr_onukd0nDpx1qe347jo1_500.jpg" alt="" width="auto"/></a></a>
+<p>(via <a href='https://bunchurimi.tumblr.com/post/187036949459'>bunchurimi</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>3:25 PM ♡ <a href="https://pufti.my.to/post/187669450668">527</a> ♡ <a href="https://www.tumblr.com/reblog/187669450668/0LX7qTP5" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://pufti.my.to/image/187669447128"><a href="https://pufti.my.to/post/187669447128"><img src="https://66.media.tumblr.com/9c5ad8b29d17877048eff860d2e60d96/tumblr_p7gf1oNOMW1vhvn1lo1_500.jpg" alt="" width="auto"/></a></a>
+<p>(via <a href='https://bunchurimi.tumblr.com/post/186570478234'>bunchurimi</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>3:25 PM ♡ <a href="https://pufti.my.to/post/187669447128">1821</a> ♡ <a href="https://www.tumblr.com/reblog/187669447128/PpU3QAve" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://www.flickr.com/photos/nanaakua/3375735446/"><a href="https://pufti.my.to/post/187669369028"><img src="https://66.media.tumblr.com/3f4dd0142a7c6e8bc4d1fa9d7e54c4a1/tumblr_np6vttIBdB1rkqpi2o1_500.jpg" alt="" width="auto"/></a></a>
+<p>(via <a href='https://dofosa.tumblr.com/post/185945250080'>dofosa</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>3:21 PM ♡ <a href="https://pufti.my.to/post/187669369028">857</a> ♡ <a href="https://www.tumblr.com/reblog/187669369028/bKYOgfOt" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+
+
+<center><div id="photoset_187669356923" class="html_photoset">    <iframe
+                id="photoset_iframe_187669356923" name="photoset_iframe_187669356923"
+                class="photoset" scrolling="no" frameborder="0"
+                height="810" width="400" style="border:0px; background-color:transparent; overflow:hidden;" src="/post/187669356923/photoset_iframe/pufti/tumblr_nld12jdbVD1qb7w7b/400/false"
+            ></iframe></div></center>
+<p>(via <a href='https://softlilbabi.tumblr.com/post/187535485001'>softlilbabi</a>)</p>
+
+<br>
+<div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>3:20 PM ♡ <a href="https://pufti.my.to/post/187669356923">5173</a> ♡ <a href="https://www.tumblr.com/reblog/187669356923/lRWLv15W" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<center>
+
+
+
+
+
+<center>
+<p><a href="http://tapireye.tumblr.com/post/180458961067/proceeding-thru-life-with-lamb-like-innocence-and" class="tumblr_blog">tapireye</a>:</p><blockquote><p>proceeding thru life with lamb-like innocence and a pure heart is painful&hellip;</p></blockquote><p>(via <a href='https://softlilbabi.tumblr.com/post/187573325316/tapireye-proceeding-thru-life-with-lamb-like'>softlilbabi</a>)</p></center><br>
+<br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;">3:20 PM ♡ <a href="https://pufti.my.to/post/187669356443/tapireye-proceeding-thru-life-with-lamb-like">229</a> ♡ <a href="https://www.tumblr.com/reblog/187669356443/e8zIs9vD" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://pufti.my.to/image/187491018483"><a href="https://pufti.my.to/post/187491018483"><img src="https://66.media.tumblr.com/dc211ca750f013ef58e614ee08451f65/tumblr_oljnnc04Q81s3pc3wo1_500.jpg" alt="" width="auto"/></a></a>
+<p>(via <a href='https://lambhymns.tumblr.com/post/186747148944'>lambhymns</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>1:27 PM ♡ <a href="https://pufti.my.to/post/187491018483">1087</a> ♡ <a href="https://www.tumblr.com/reblog/187491018483/bVhV6Q9Y" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+<div id="entry" style="width: 450px; padding-left:5px; background:;">
+
+
+
+
+<a href="https://pufti.my.to/image/187491017428"><a href="https://pufti.my.to/post/187491017428/sadfviry-blog-new-bustier-u"><img src="https://66.media.tumblr.com/77b0e91aab5f636d51568bdfd08d56ee/tumblr_n9rz837SEV1s8d2nho1_500.jpg" alt="sadfviry-blog:
+&ldquo;new bustier ; u ;
+&rdquo;" width="auto"/></a></a>
+<p><a href="https://sadfviry-blog.tumblr.com/post/93764966854/new-bustier-u" class="tumblr_blog">sadfviry-blog</a>:</p><blockquote><p>new bustier ; u ;</p></blockquote><p>(via <a href='https://lambhymns.tumblr.com/post/186818383524/sadfviry-blog-new-bustier-u'>lambhymns</a>)</p>
+<br><br><div style="border-top: 1px dotted #f2e0da;padding:3px;margin-top:3px;text-align:right;"><br>1:27 PM ♡ <a href="https://pufti.my.to/post/187491017428/sadfviry-blog-new-bustier-u">3603</a> ♡ <a href="https://www.tumblr.com/reblog/187491017428/lJLT7yKS" target="_blank">reblog</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+<div class="pagination">
+<br><br>
+
+
+<span class="current_page">1&nbsp;</span>
+
+
+
+
+
+
+
+<a class="jump_page" href="/page/2">2&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/3">3&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/4">4&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/5">5&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/6">6&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/7">7&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/8">8&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/9">9&nbsp;</a>
+
+
+
+
+
+<a class="jump_page" href="/page/10">10&nbsp;</a>
+
+
+</div>
+
+
+
+    
+
+
+</div>
+    
+
+    
+</div>
+
+<div style="position:fixed; top:0px; left:0px; width:1310px; height: 50px; overflow: hidden;
+   -webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;">
+<h8>
+
+
+     </h8>  </div>
+
+<script type="text/javascript">
+// <![CDATA[
+var colour="#FFFFFF";
+var sparkles=120;
+
+/****************************
+*  Tinkerbell Magic Sparkle *
+* (c) 2005 mf2fm web-design *
+*  http://www.mf2fm.com/rv  *
+* DON'T EDIT BELOW THIS BOX *
+****************************/
+var x=ox=400;
+var y=oy=300;
+var swide=800;
+var shigh=600;
+var sleft=sdown=0;
+var tiny=new Array();
+var star=new Array();
+var starv=new Array();
+var starx=new Array();
+var stary=new Array();
+var tinyx=new Array();
+var tinyy=new Array();
+var tinyv=new Array();
+
+window.onload=function() { if (document.getElementById) {
+  var i, rats, rlef, rdow;
+  for (var i=0; i<sparkles; i++) {
+    var rats=createDiv(3, 3);
+    rats.style.visibility="hidden";
+    document.body.appendChild(tiny[i]=rats);
+    starv[i]=0;
+    tinyv[i]=0;
+    var rats=createDiv(5, 5);
+    rats.style.backgroundColor="transparent";
+    rats.style.visibility="hidden";
+    var rlef=createDiv(1, 5);
+    var rdow=createDiv(5, 1);
+    rats.appendChild(rlef);
+    rats.appendChild(rdow);
+    rlef.style.top="2px";
+    rlef.style.left="0px";
+    rdow.style.top="0px";
+    rdow.style.left="2px";
+    document.body.appendChild(star[i]=rats);
+  }
+  set_width();
+  sparkle();
+}}
+
+function sparkle() {
+  var c;
+  if (x!=ox || y!=oy) {
+    ox=x;
+    oy=y;
+    for (c=0; c<sparkles; c++) if (!starv[c]) {
+      star[c].style.left=(starx[c]=x)+"px";
+      star[c].style.top=(stary[c]=y)+"px";
+      star[c].style.clip="rect(0px, 5px, 5px, 0px)";
+      star[c].style.visibility="visible";
+      starv[c]=50;
+      break;
+    }
+  }
+  for (c=0; c<sparkles; c++) {
+    if (starv[c]) update_star(c);
+    if (tinyv[c]) update_tiny(c);
+  }
+  setTimeout("sparkle()", 40);
+}
+
+function update_star(i) {
+  if (--starv[i]==25) star[i].style.clip="rect(1px, 4px, 4px, 1px)";
+  if (starv[i]) {
+    stary[i]+=1+Math.random()*3;
+    if (stary[i]<shigh+sdown) {
+      star[i].style.top=stary[i]+"px";
+      starx[i]+=(i%5-2)/5;
+      star[i].style.left=starx[i]+"px";
+    }
+    else {
+      star[i].style.visibility="hidden";
+      starv[i]=0;
+      return;
+    }
+  }
+  else {
+    tinyv[i]=50;
+    tiny[i].style.top=(tinyy[i]=stary[i])+"px";
+    tiny[i].style.left=(tinyx[i]=starx[i])+"px";
+    tiny[i].style.width="2px";
+    tiny[i].style.height="2px";
+    star[i].style.visibility="hidden";
+    tiny[i].style.visibility="visible"
+  }
+}
+
+function update_tiny(i) {
+  if (--tinyv[i]==25) {
+    tiny[i].style.width="1px";
+    tiny[i].style.height="1px";
+  }
+  if (tinyv[i]) {
+    tinyy[i]+=1+Math.random()*3;
+    if (tinyy[i]<shigh+sdown) {
+      tiny[i].style.top=tinyy[i]+"px";
+      tinyx[i]+=(i%5-2)/5;
+      tiny[i].style.left=tinyx[i]+"px";
+    }
+    else {
+      tiny[i].style.visibility="hidden";
+      tinyv[i]=0;
+      return;
+    }
+  }
+  else tiny[i].style.visibility="hidden";
+}
+
+document.onmousemove=mouse;
+function mouse(e) {
+  set_scroll();
+  y=(e)?e.pageY:event.y+sdown;
+  x=(e)?e.pageX:event.x+sleft;
+}
+
+function set_scroll() {
+  if (typeof(self.pageYOffset)=="number") {
+    sdown=self.pageYOffset;
+    sleft=self.pageXOffset;
+  }
+  else if (document.body.scrollTop || document.body.scrollLeft) {
+    sdown=document.body.scrollTop;
+    sleft=document.body.scrollLeft;
+  }
+  else if (document.documentElement && (document.documentElement.scrollTop || document.documentElement.scrollLeft)) {
+    sleft=document.documentElement.scrollLeft;
+	sdown=document.documentElement.scrollTop;
+  }
+  else {
+    sdown=0;
+    sleft=0;
+  }
+}
+
+window.onresize=set_width;
+function set_width() {
+  if (typeof(self.innerWidth)=="number") {
+    swide=self.innerWidth;
+    shigh=self.innerHeight;
+  }
+  else if (document.documentElement && document.documentElement.clientWidth) {
+    swide=document.documentElement.clientWidth;
+    shigh=document.documentElement.clientHeight;
+  }
+  else if (document.body.clientWidth) {
+    swide=document.body.clientWidth;
+    shigh=document.body.clientHeight;
+  }
+}
+
+function createDiv(height, width) {
+  var div=document.createElement("div");
+  div.style.position="absolute";
+  div.style.height=height+"px";
+  div.style.width=width+"px";
+  div.style.overflow="hidden";
+  div.style.backgroundColor=colour;
+  return (div);
+}
+// ]]>
+</script>
+
+
+
+<div class="hcontrols"><svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 216 216" enable-background="new 0 0 216 216" xml:space="preserve"><path d="M106.6,134c14.3,0,26-11.7,26-26s-11.7-26-26-26s-26,11.7-26,26S92.2,134,106.6,134z M106.6,94c7.7,0,14,6.3,14,14s-6.3,14-14,14s-14-6.3-14-14S98.9,94,106.6,94z M40.4,124.6l7.2,3.3c3,1.4,4.4,4.8,3.3,7.9l-2.8,7.4c-2.1,5.7-1.4,11.8,2.1,16.7c3.4,5,9,7.9,15,7.9c2.2,0,4.4-0.4,6.5-1.2l7.4-2.8c0.7-0.3,1.4-0.4,2.2-0.4c2.4,0,4.7,1.4,5.7,3.7l3.3,7.2c3,6.6,9.4,10.7,16.6,10.7s13.6-4.1,16.6-10.7l3.3-7.2c1-2.2,3.2-3.7,5.7-3.7c0.7,0,1.5,0.1,2.2,0.4l7.4,2.8c2.1,0.8,4.3,1.2,6.5,1.2c0,0,0,0,0,0c5.9,0,11.5-3,15-7.9c3.4-5,4.2-11.1,2.1-16.7l-2.8-7.4c-1.1-3.1,0.3-6.5,3.3-7.9l7.2-3.3c6.6-3,10.7-9.4,10.7-16.6s-4.1-13.6-10.7-16.6l-7.2-3.3c-3-1.4-4.4-4.8-3.3-7.9l2.8-7.4c2.1-5.7,1.4-11.8-2.1-16.7c-3.4-5-9-7.9-15-7.9c-2.2,0-4.4,0.4-6.5,1.2l-7.4,2.8c-0.7,0.3-1.4,0.4-2.2,0.4c-2.4,0-4.7-1.4-5.7-3.7l-3.3-7.2c-3-6.6-9.4-10.7-16.6-10.7S93,35.2,90,41.8l-3.3,7.2c-1,2.2-3.2,3.7-5.7,3.7c-0.7,0-1.5-0.1-2.2-0.4l-7.4-2.8c-2.1-0.8-4.3-1.2-6.5-1.2c-5.9,0-11.5,3-15,7.9c-3.4,5-4.2,11.1-2.1,16.7l2.8,7.4c1.1,3.1-0.3,6.5-3.3,7.9l-7.2,3.3c-6.6,3-10.7,9.4-10.7,16.6S33.8,121.6,40.4,124.6z M45.3,102.3l7.2-3.3c8.7-4,12.9-14.1,9.5-23l-2.8-7.4c-1-2.7,0-4.7,0.7-5.7c1.6-2.4,4.6-3.4,7.4-2.3l7.4,2.8c2.1,0.8,4.2,1.2,6.4,1.2c0,0,0,0,0,0c7.1,0,13.6-4.2,16.6-10.7l3.3-7.2c1.5-3.4,4.7-3.7,5.7-3.7s4.1,0.3,5.7,3.7l3.3,7.2c3,6.5,9.5,10.7,16.6,10.7c2.2,0,4.3-0.4,6.4-1.2l7.4-2.8c2.8-1,5.7,0,7.4,2.3c0.7,1,1.7,3,0.7,5.7l-2.8,7.4c-3.3,8.9,0.8,19,9.5,23l7.2,3.3c3.4,1.5,3.7,4.7,3.7,5.7s-0.3,4.1-3.7,5.7l-7.2,3.3c-8.7,4-12.9,14.1-9.5,23l2.8,7.4c1,2.7,0,4.7-0.7,5.7c-1.6,2.4-4.6,3.4-7.4,2.3l-7.4-2.8c-2.1-0.8-4.2-1.2-6.4-1.2c-7.1,0-13.6,4.2-16.6,10.7l-3.3,7.2c-1.5,3.4-4.7,3.7-5.7,3.7s-4.1-0.3-5.7-3.7l-3.3-7.2c-3-6.5-9.5-10.7-16.6-10.7c-2.2,0-4.3,0.4-6.4,1.2l-7.4,2.8c-2.8,1-5.7,0-7.4-2.3c-0.7-1-1.7-3-0.7-5.7l2.8-7.4c3.3-8.9-0.8-19-9.5-23l-7.2-3.3c-3.4-1.5-3.7-4.7-3.7-5.7S41.9,103.9,45.3,102.3z"/></svg></div>
+
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?dfab06320413a6a34dbca419c4c70f2c#" +
+                              "https://pufti.my.to";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/';
+                    var tumblelog_id = 't:-aDrt4EQ29hhtQ-HZIxxZg';
+                    var yahoo_space_id = '1197719229';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript" nonce="SxuiG2ybleXzQvxcgEm6L93Tsk">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1568478858&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3B1ZnRpLm15LnRvLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyJ9&U=HPOOCNDDKG&K=c7d65d700e0476a74f78a426d67ca4039e1519414cd4138bf4927fc05ee530ce&R=https%3A%2F%2Fmiddlepot.com%2Flinks'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1568478858&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3B1ZnRpLm15LnRvLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsIm5vc2NyaXB0IjoxfQ==&U=HPOOCNDDKG&K=031da19f8f63f954c491be74c7f3d974fea6db681bcd70ca24831f9637fa8494&R=https%3A%2F%2Fmiddlepot.com%2Flinks"></noscript><script nonce="SxuiG2ybleXzQvxcgEm6L93Tsk">
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'https://assets.tumblr.com/assets/scripts/vendor/cedexis/1-13960-radar10.min.js?_v=8d32508b0a251bebecb4853c987c5015';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript" nonce="SxuiG2ybleXzQvxcgEm6L93Tsk">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1568478858&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9wdWZ0aS5teS50by8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii8iLCJwb3N0cyI6W3sicm9vdF9ibG9naWQiOiIyNTQ2NjE0MTAiLCJyb290X3Bvc3RpZCI6IjE4MDkwOTUyNTQzNiIsInBvc3RpZCI6IjE4NzY2OTU5MTM4OCIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIyNDY3MDY2Iiwicm9vdF9wb3N0aWQiOiI0MDI5MjE1MjA4MiIsInBvc3RpZCI6IjE4NzY2OTQ1NjQyOCIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIyMTc2MTY0NTgiLCJyb290X3Bvc3RpZCI6IjEyNDQzNDkzMzc1NSIsInBvc3RpZCI6IjE4NzY2OTQ1MTczMyIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI4MzM3NjkyIiwicm9vdF9wb3N0aWQiOiIxNTk5MDI5MTIxNTIiLCJwb3N0aWQiOiIxODc2Njk0NTA2NjgiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMzE2NDE0ODIyIiwicm9vdF9wb3N0aWQiOiIxNzMxMDgyMzc2MTIiLCJwb3N0aWQiOiIxODc2Njk0NDcxMjgiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNzkzNTkzMjYiLCJyb290X3Bvc3RpZCI6IjEyMTI5MjQ0NTYwNCIsInBvc3RpZCI6IjE4NzY2OTM2OTAyOCIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIzNTA0OTAwIiwicm9vdF9wb3N0aWQiOiIxMTM4NzM5NTA0ODAiLCJwb3N0aWQiOiIxODc2NjkzNTY5MjMiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTIxNjEzNjcwIiwicm9vdF9wb3N0aWQiOiIxODA0NTg5NjEwNjciLCJwb3N0aWQiOiIxODc2NjkzNTY0NDMiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiODk0MDYyMjMiLCJyb290X3Bvc3RpZCI6IjE1NzM3NDkyMTQ4MiIsInBvc3RpZCI6IjE4NzQ5MTAxODQ4MyIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI5ODQyNzk0MiIsInJvb3RfcG9zdGlkIjoiOTM3NjQ5NjY4NTQiLCJwb3N0aWQiOiIxODc0OTEwMTc0MjgiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfV19&U=COBEILDLLJ&K=61cdb35bbcdb952e2604f9d68bd5859bc987fd3e5f5233bcb47e091bf96c5170&R=https%3A%2F%2Fmiddlepot.com%2Flinks'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1568478858&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9wdWZ0aS5teS50by8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii8iLCJwb3N0cyI6W3sicm9vdF9ibG9naWQiOiIyNTQ2NjE0MTAiLCJyb290X3Bvc3RpZCI6IjE4MDkwOTUyNTQzNiIsInBvc3RpZCI6IjE4NzY2OTU5MTM4OCIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIyNDY3MDY2Iiwicm9vdF9wb3N0aWQiOiI0MDI5MjE1MjA4MiIsInBvc3RpZCI6IjE4NzY2OTQ1NjQyOCIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIyMTc2MTY0NTgiLCJyb290X3Bvc3RpZCI6IjEyNDQzNDkzMzc1NSIsInBvc3RpZCI6IjE4NzY2OTQ1MTczMyIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI4MzM3NjkyIiwicm9vdF9wb3N0aWQiOiIxNTk5MDI5MTIxNTIiLCJwb3N0aWQiOiIxODc2Njk0NTA2NjgiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMzE2NDE0ODIyIiwicm9vdF9wb3N0aWQiOiIxNzMxMDgyMzc2MTIiLCJwb3N0aWQiOiIxODc2Njk0NDcxMjgiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNzkzNTkzMjYiLCJyb290X3Bvc3RpZCI6IjEyMTI5MjQ0NTYwNCIsInBvc3RpZCI6IjE4NzY2OTM2OTAyOCIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIzNTA0OTAwIiwicm9vdF9wb3N0aWQiOiIxMTM4NzM5NTA0ODAiLCJwb3N0aWQiOiIxODc2NjkzNTY5MjMiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTIxNjEzNjcwIiwicm9vdF9wb3N0aWQiOiIxODA0NTg5NjEwNjciLCJwb3N0aWQiOiIxODc2NjkzNTY0NDMiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiODk0MDYyMjMiLCJyb290X3Bvc3RpZCI6IjE1NzM3NDkyMTQ4MiIsInBvc3RpZCI6IjE4NzQ5MTAxODQ4MyIsImJsb2dpZCI6IjIyMDExMzM4NyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI5ODQyNzk0MiIsInJvb3RfcG9zdGlkIjoiOTM3NjQ5NjY4NTQiLCJwb3N0aWQiOiIxODc0OTEwMTc0MjgiLCJibG9naWQiOiIyMjAxMTMzODciLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=COBEILDLLJ&K=6a531eb66d0840d5a2b88958a6230e8e40310e810cd5a03afac192150d7dfcd6&R=https%3A%2F%2Fmiddlepot.com%2Flinks"></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=122e6d832b090764ee98de1511782f08&quot;,&quot;tumblelogName&quot;:&quot;pufti&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;\uff65 \uff9f \uff61&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/66.media.tumblr.com\/4afacb599956e6335bd1c24da4d437ed\/f506901d4ed8d852-59\/s64x64u_c1\/9e290c3e5be73e651bcf28baf82f36fdccdc5cae.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/pufti.my.to&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/54df4f59d237c8f56273d3a9b7b04762\/lzb3h7n\/kKTpulq03\/tumblr_static_tumblr_static_7fzdf43pdssg08gws8s4cg0o_focused_v3.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#fbf5f5&quot;,&quot;themeTitleColor&quot;:&quot;#e0d4d1&quot;,&quot;themeAccentColor&quot;:&quot;#bcb1b1&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/pufti.my.to\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dblog_network_floating_cta&quot;,&quot;ios&quot;:&quot;https:\/\/itunes.apple.com\/app\/apple-store\/id305343404?pt=9029\u0026ct=blog_network_floating_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;tumblr_new_iframe&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwic2FmZV9tb2RlIjp0cnVlLCJzYWZlX21vZGVfZW5hYmxlZCI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwia3Jha2VuX3dlYl9sb2dnaW5nX2xpYnJhcnkiOnRydWUsInNlY3VyZV9mb3JtX2tleSI6dHJ1ZSwic2VjdXJlX2Zvcm1fa2V5X2Z1bGx5X29uIjp0cnVlLCJ0dW1ibGVsb2dfcG9wb3ZlciI6dHJ1ZSwiY2Fub25pY2FsX3VybF93cml0ZXMiOnRydWUsImVuYWJsZV9jYXB0dXJlX2pzIjp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwiZGVwcmVjYXRlX2ZlYXR1cmVkX3RhZ3MiOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwiZG9udF9jYXN0X2pzX2ZvbGxvd3MiOnRydWUsImFkc19uZXdfdmVuZG9yX2J1dHRvbnMiOnRydWUsInJlYWN0aXZhdGlvbl9mbG93Ijp0cnVlLCJndWxwanNfYWRtaW4iOnRydWUsImVuYWJsZV9qc19lcGhlbWVyYWxfbG9nIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwiY3Nsb2dnZXJfanMiOnRydWUsImRpc2NvdmVyeV9odWJfYWNjZXNzIjp0cnVlLCJoZWFkZXJfYWNjb3VudF9tZW51Ijp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicGVlcHJfc2VhcmNoX2FuZF9maWx0ZXIiOnRydWUsImZvbGxvd2VkX3NlYXJjaGVzX2JpZ193ZWIiOnRydWUsImxpdmVwaG90b3Nfd2ViIjp0cnVlLCJ1c2VyX3RhZ19maWx0ZXJpbmciOnRydWUsInByb2plY3RfeF9hcHBlYWwiOnRydWUsInByb2plY3RfeF93ZWJfc2Vuc2l0aXZlX2NvdmVycyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJoaWRlX2RlZmF1bHRfaGVhZGVyc19ibG9nX2NhcmRzIjp0cnVlLCJub3RpZmljYXRpb25fcmVwbHlfbGlua190b19ub3RlcyI6dHJ1ZSwidHlwaW5nX2luZGljYXRvcl93cml0ZSI6dHJ1ZSwiZ2Rwcl9ndWNlX2lzX3JlcXVpcmVkIjp0cnVlLCJ0dW1ibHJfdmlkZW9fc3BvbnNvcmVkX2RheSI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsInN0YXR1c19pbmRpY2F0b3IiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWUsImxpdmVwaG90b3MiOnRydWV9&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1568478858000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=122e6d832b090764ee98de1511782f08"></script></body>
+
+<!--
+
+　　　          ___   .--.
+　　　    .--.-"   "-' .- |
+　　　   / .-,`          .'   
+　　　   \   `           \ 　　　　　　。・゜ 　♡   。　　・　゜ 　　　♡  
+　　　    '.            ・ \　　　　　　　　　　　　　　　　　　　　　　　　♡　　　　♡ ゜・。。♡  
+　　　      |  ・     ᴥ    。|　　　　・゜♡ ゜・。　　. * ・ ♡ °  . 。
+　　　      \ 。            /.____　　　　　　　　　　　　　　　　　　♡.  
+　　　     /`-.          ,'.'    `\　　　　　　　　　　　　　　　　　　。・゜　　　 ♡ ・ 。　　。・゜ ♡  
+　　　  __/   \`-.____.-' `\      /　　　　　♡　。・゜      
+　　　  | `---`'-'._/-`     \----'    _ 　　　　　　　　　　　♡　　　.　　　.♡ 
+　　　  |,-'`  /             |    _.-' `\　　　　. * ・        
+　　　 .'     /              |--'`     / |　　　　　　　　　　 ♡
+　　　/      /\              `         | |
+　　　|   .\/  \      .--. __          \ |　　　　　　　　　　　*.。middlepot.com 
+　　　 '-'      '._       /  `\         /　　　　　　　　　　　　　　　　　　　　　　　ଘ(*´ ˘ `*)ഒ 。.*
+　　　             `\    '     |------'`
+　　　               \  |      |
+　　　                \        /
+ 　　　                '._  _.'
+
+-->
+
+</html>
